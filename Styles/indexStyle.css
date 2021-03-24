@@ -1,0 +1,24 @@
+html {
+    background-color: lightslategrey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header {
+    font-size: 80px;
+}
+body {
+    text-align: center;
+}
+button {
+    background-color: rgb(49, 18, 133);
+    font-size: xx-large;
+    color: whitesmoke;
+    padding: 20px;
+    border-color: transparent;
+    font-family: monospace;
+    
+}
+footer {
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+}
