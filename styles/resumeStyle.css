@@ -1,0 +1,111 @@
+
+body {
+    margin: 0px;
+    background-color: teal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* HEADER ----------------------------------------------------------------------------------------- */
+header {
+    background-image: url(../img/PSUandMultimetreBanner.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 460px;
+}
+h1 {
+    margin: 0;
+    font-size: 100px;
+    background-color: rgba(0, 128, 128, 0.404);
+    color:rgb(160, 55, 7);
+    text-shadow: -1px -1px rgb(44, 44, 44), 1px 1px rgb(44, 44, 44), -1px 1px rgb(44, 44, 44), 1px -1px rgb(44, 44, 44);
+}
+header p {
+    font-size: 30px;
+    color: whitesmoke;
+}
+header img {
+    background-color: rgba(245, 245, 245, 0.404);
+    border-radius: 50%;
+    padding: 10px;
+}
+main {
+    background-color: rgb(128, 4, 0);
+    padding: 0;
+    margin: 0;
+}
+/* MAIN SECTION ----------------------------------------------------------------------------------------- */
+main {
+    background-color: rgba(245, 245, 245, 0.89);
+    position: relative;
+    display: block;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 100px;
+    padding-bottom: 25px;
+}
+main h2 {
+    margin: 0 20px 0 0;
+    padding-top: 20px;
+    font-size: 40px;
+    border-bottom: solid;
+}
+main p {
+    font-size: 20px;
+    padding-left: 30px;
+}
+main ul {
+    font-size: 20px;
+    margin-bottom: 0;
+    
+}
+main ul.skills {
+    column-count: 3;
+    column-width: 210px;
+}
+main h3 {
+    font-size: 25px;
+}
+main h4 {
+    margin: 10px 0 10px 0;
+    font-size: 22px;
+}
+
+/* SIDE BAR ----------------------------------------------------------------------------------------- */
+
+aside {
+    background-color: teal;    
+    position: absolute;
+    top: 460px;
+}
+aside dl {
+    font-size: 22px;
+    padding-left: 15px;
+    margin-bottom: 0;
+    margin-right: 15px;
+}
+aside dt {
+    font-weight: bold;
+    color:rgb(80, 28, 5);
+    border-bottom: solid;
+    border-color: black;
+    padding-top: 15px;
+}
+aside dd {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+aside section {
+    background-color: rgba(300, 300, 300, 0.5);
+    border-radius: 25px;
+    padding-bottom: 15px;
+}
+aside h2 {
+    text-align: center;
+    color:rgb(160, 55, 7);
+    text-shadow: -1px -1px rgb(44, 44, 44);
+    padding-left: 15px;
+    margin: 0;
+    font-size: 30px;
+    background-color: rgb(240, 240, 3);
+}
