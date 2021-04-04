@@ -1,6 +1,8 @@
 html {
     background-image: url(../img/boltsOnTable.jpg);
     background-size: cover;
+    background-position: center;
+    height: 100%;
 }
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
